@@ -11,7 +11,7 @@ public class TDIDT {
 
 	// Traing/test sets
     private ArrayList<Boolean[]> trainingSet = null;
-    private ArrayList<Boolean[]> testSet = null;
+	private ArrayList<Boolean[]> testSet = null;
 
     // test and train file path/name
     public static String trainFile = "data/SPECT.train";
@@ -21,10 +21,10 @@ public class TDIDT {
     
     public static int LABEL_INDEX = 0;
     public static PrintWriter writer;
-	private static int testCount = 10;  // number of repetition
-	public static PrintWriter informationGainWriter;  // write
+    private static int testCount = 10;  // number of repetition
+    public static PrintWriter informationGainWriter;  // write
         
-	/**
+    /**
 	 * @param args
 	 * 		args[0] : Training file path/name 
 	 */
