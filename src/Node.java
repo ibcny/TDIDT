@@ -1,7 +1,7 @@
 
 /**
- * @author  Can Yuce --- Mat. No: 2880858
- * @author  Oguz Uzman --- Mat. No: 2915814
+ * @author  Can Yuce 
+ * @author  Oguz Uzman
  */
 
 public class Node {
