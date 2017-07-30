@@ -1,5 +1,5 @@
 # TDIDT
-Top down induction of decision tree(TDIDT) algorithm implementation in Java for domains over binary attributes.
+Top down induction of decision tree(TDIDT) algorithm Java implementation for domains over binary attributes.
 
 - Each training and test example is represented by a binary vector. 
 
